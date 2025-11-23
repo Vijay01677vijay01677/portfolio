@@ -22,7 +22,7 @@ const Navbar = () => {
 
                 </div>
                 <div className="flex items-center justify-center gap-3 m-6  text-2xl bg-amber-50 ">
-                    <a href="" target="_blank" className="cursor-pointer">
+                    <a href="https://www.linkedin.com/in/vijay-kumar-balla-768988358/" target="_blank" className="cursor-pointer">
                         <FaLinkedin />
 
                     </a>
